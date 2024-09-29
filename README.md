@@ -1,5 +1,5 @@
 # Enlace a GitHub Pages
 
-[Curso taller de programación web - Primer avance del Proyecto](https://robermejia.github.io/Avance1_Proyecto_Taller_Desarrollo_Web/)
+[Curso taller de programación web - Primer avance del Proyecto](https://robermejia.github.io/avance1_proyecto_taller_de_programacion_web/)
   
 ![página web](https://i.ibb.co/SXzRZjz/image.png)
